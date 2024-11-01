@@ -1,0 +1,9 @@
+Curso importante e rápido:Quix Streams Tutorials
+https://www.youtube.com/watch?v=mdhEXg5Pny8&list=PL5gMntduShmyJd2fsflN1jwLW9XtDMFAX
+
+A Simple Kafka and Python Walkthrough
+https://www.youtube.com/watch?v=D2NYvGlbK0M
+
+Kafka Consumers in Python - A Walkthrough
+https://www.youtube.com/watch?v=eCsSAzTy5cE
+	

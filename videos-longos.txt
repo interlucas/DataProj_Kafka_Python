@@ -1,0 +1,15 @@
+apache kafka python tutorial
+https://www.youtube.com/playlist?list=PL5scgJCO7lvxgVW7R7Dp1rcnrTmh3yPNK
+
+Apache Kafka for Python Developer
+https://www.youtube.com/playlist?list=PLjfRmoYoxpNrs0VmIq6mOTqXP52RfZdRf
+
+Intro to Confluent-Kafka Python | Apache Kafka®
+https://www.youtube.com/playlist?list=PLa7VYi0yPIH1odVnZC430071CVD_4Sx1e
+
+Kafka Python
+https://www.youtube.com/playlist?list=PLaNsxqNgctlO5wIfkJhnrXbdUlqxTNoZ5
+
+https://www.youtube.com/playlist?list=PL5aY_NrL1rjt_AZxj11kQjiTNLGg4ZaZA
+
+https://www.youtube.com/watch?v=B8jUaFPu7x8
